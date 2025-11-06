@@ -1,7 +1,6 @@
 # 📚 Catálogo de Livros
 
 Este projeto é um **catálogo de livros** que permite consultar obras por meio da **API Gutendex** e armazená-las em um banco de dados **PostgreSQL**.  
-Ele foi desenvolvido como parte do **Desafio Tech Foundation ONE G8 BR**, atendendo aos requisitos obrigatórios e extras do desafio.
 
 ## ✅ Funcionalidades principais
 
@@ -42,7 +41,6 @@ O projeto é composto por:
 # 📚 Book Catalog
 
 This project is a **book catalog** that allows users to search for literary works using the **Gutendex API** and store them in a **PostgreSQL** database.  
-It was developed as part of the **Tech Foundation ONE G8 BR Challenge**, meeting both the core and extra requirements.
 
 ## ✅ Main Features
 
