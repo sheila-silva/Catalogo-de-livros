@@ -37,7 +37,10 @@ O projeto é composto por:
 - 🐘 **PostgreSQL**
 - 📚 **Gutendex API** 
 
--------------------------------------------------------------------------------------------------
+***********
+***********
+
+
 # 📚 Book Catalog
 
 This project is a **book catalog** that allows users to search for literary works using the **Gutendex API** and store them in a **PostgreSQL** database.  
