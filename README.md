@@ -1,5 +1,7 @@
 # 📚 Catálogo de Livros
 
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)
+
 Este projeto é um **catálogo de livros** que permite consultar obras por meio da **API Gutendex** e armazená-las em um banco de dados **PostgreSQL**.  
 
 ## ✅ Funcionalidades principais
