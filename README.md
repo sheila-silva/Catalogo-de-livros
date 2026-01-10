@@ -101,7 +101,7 @@ Tratamento básico de exceções de comunicação é aplicado para evitar falhas
 
 🗄️ Configuração de Banco de Dados
 
-O projeto utiliza PostgreSQL, com configuração externa via variáveis de ambiente, seguindo boas práticas de segurança e portabilidade. O gerenciamento do esquema é feito automaticamente pelo Hibernate (ddl-auto=update).
+O projeto utiliza PostgreSQL, com configuração externa via variáveis de ambiente.
 
 <br>
 <br>
@@ -210,8 +210,33 @@ Resultado: William Shakespeare
 
 ## **8️⃣ Buscar por Ano de Nascimento/Falecimento**
 
-Encontra autores nascidos OU falecidos no ano exato
+Encontra autores nascidos ou falecidos no ano exato. 
 Mostra livros relacionados
+
+<br>
+<br>
+
+--------
+
+
+# Agradecimentos / Referências 
+
+Alura - Cursos On Line de Tecnologia 
+
+Oracle - Oracle Next Education - ONE
+
+
+<br>
+
+
+----------
+
+
+# Autora:
+
+Sheila M. M. L. Silva 
+
+https://www.linkedin.com/in/sheilasheila/
 
 
 
