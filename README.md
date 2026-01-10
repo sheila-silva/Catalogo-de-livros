@@ -37,27 +37,8 @@ O projeto é composto por:
 - 🐘 **PostgreSQL**
 - 📚 **Gutendex API** 
 
-***********
-***********
 
 
-# 📚 Book Catalog
-
-This project is a **book catalog** that allows users to search for literary works using the **Gutendex API** and store them in a **PostgreSQL** database.  
-
-## ✅ Main Features
-
-- 🔍 Search books by title using the API  
-- 📘 List all books stored in the database  
-- 🖊️ List registered authors  
-- 📅 List authors who were alive in a given year  
-- 🌍 List books by language: **English**, **French**, and **Portuguese**
-
-## ✨ Extra Features Implemented
-
-- 🔝 List the **top 10 most downloaded books** from the Gutendex API  
-- 👤 Search books by **author name**  
-- 📆 Search authors by **year of birth or death**
 
 
 
